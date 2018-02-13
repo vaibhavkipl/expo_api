@@ -1,4 +1,4 @@
-<?php
+<?php  echo "test";
 namespace App\Http\Controllers;
 use App\Customer;
 use Validator;
